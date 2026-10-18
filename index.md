@@ -1,6 +1,6 @@
 # SBJ Public Record Contributions — Technical Publication Index
 
-> **Draft review material. Not approved for public release.** This repository is private. This index records selected review dispositions. It is not an agency endorsement or acceptance statement and does not substitute for the formal submissions.
+> This repository is private. This index records selected review dispositions. It is not an agency endorsement or acceptance statement and does not substitute for the formal submissions.
 
 This repository is reserved for selected, reusable technical artifacts linked to SBJ Public Record Contributions (PRCs). Canonical SBJ architecture and Decision Record materials remain in their existing repositories; this index cross-references rather than republishes them.
 
