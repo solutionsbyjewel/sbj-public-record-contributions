@@ -2,7 +2,7 @@
 
 > **Draft review material. Not approved for public release.** This is an SBJ-authored summary of recommendations in the formal contribution; it is not a NIST interpretation or endorsement.
 
-**Formal contribution:** [SBJ-hosted submission](https://nist-sp-800-239-ai-data-center-security-public-comment.solutionsbyjewelgovernance.workers.dev/)
+**Formal contribution:** [SBJ-hosted submission](https://nist-sp-800-239-ai-data-center-security-public-comment.solutionsbyjewelaigovernance.workers.dev/)
 
 ## Technical substance identified
 
