@@ -12,7 +12,11 @@ This repository is intended to hold selected, reusable technical summaries linke
 | PRC-002 | HM Treasury — Agentic Payments | [Agentic payment authority](PRC-002-HM-Treasury-Agentic-Payments.md) |
 | PRC-003 | FedRAMP RFC-0033 — 20x Class D | [Class D assurance governance](PRC-003-FedRAMP-RFC-0033.md) |
 | PRC-005 | NIST SP 800-239 — AI Data Center Security | [AI data-center security](PRC-005-NIST-SP-800-239-AI-Data-Center-Security.md) |
-| PRC-028 | BEREC — Generative AI and Internet Openness | [Agentic systems and internet openness](PRC-028-BEREC-Generative-AI-Internet-Openness.md) |\n| PRC-008 | EDPB Guidelines 03/2026 — Web Scraping | [Web-scraping evidence controls](PRC-008-EDPB-Guidelines-03-2026-Web-Scraping.md) |\n| PRC-014 | UK NPL — AI Testing, Evaluation and Assurance | [Assurance result validity and evidence](PRC-014-UK-NPL-AI-Testing-Evaluation-Assurance.md) |\n| PRC-015 | NIST NVD Modernization | [AI-enabled vulnerability management](PRC-015-NIST-NVD-Modernization.md) |\n| PRC-016 | Canada — Advancing AI Transparency | [Agent action traceability](PRC-016-Canada-Advancing-AI-Transparency.md) |
+| PRC-028 | BEREC — Generative AI and Internet Openness | [Agentic systems and internet openness](PRC-028-BEREC-Generative-AI-Internet-Openness.md) |
+| PRC-008 | EDPB Guidelines 03/2026 — Web Scraping | [Web-scraping evidence controls](PRC-008-EDPB-Guidelines-03-2026-Web-Scraping.md) |
+| PRC-014 | UK NPL — AI Testing, Evaluation and Assurance | [Assurance result validity and evidence](PRC-014-UK-NPL-AI-Testing-Evaluation-Assurance.md) |
+| PRC-015 | NIST NVD Modernization | [AI-enabled vulnerability management](PRC-015-NIST-NVD-Modernization.md) |
+| PRC-016 | Canada — Advancing AI Transparency | [Agent action traceability](PRC-016-Canada-Advancing-AI-Transparency.md) |
 
 ## Other reviewed dispositions
 
