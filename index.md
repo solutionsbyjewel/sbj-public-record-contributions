@@ -6,6 +6,7 @@ This repository is reserved for selected, reusable technical artifacts linked to
 
 ## Reviewed dispositions
 
+- **PRC-003 — FedRAMP RFC-0033, 20x Class D:** the five proposed assurance, inheritance, dependency, evidence-provenance, and hosting-change controls are mapped in [class-d-assurance-evidence-matrix.md](PRC-003-FedRAMP/class-d-assurance-evidence-matrix.md).
 - **PRC-007 — NIST IR 8613, Multi-Cloud Security:** seven line-mapped recommendations were reviewed from the companion SBJ PDF and NIST comment workbook. Cross-reference only at this stage: the topics substantially overlap existing SBJ architecture and Decision Record concepts. The PDF and workbook are supporting components of one contribution, not separate PRCs.
 - **PRC-012 — Malaysia JPDP, AI & Personal Data Protection:** three proposals address material change, evidence sufficiency, and changed operational reliance. Cross-reference only at this stage because these align with existing SBJ authorization concepts.
 - **PRC-023 — FDA, Generative AI-Enabled Medical Devices:** six governance recommendations were reviewed. No distinct, reusable artifact beyond existing SBJ architecture concepts was identified for this initial set.
