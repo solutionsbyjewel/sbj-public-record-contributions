@@ -2,7 +2,7 @@
 
 > **Draft review material. Not approved for public release.** This is an SBJ-authored summary of recommendations in the formal contribution; it does not represent FedRAMP adoption or endorsement.
 
-**Formal contribution:** [SBJ-hosted submission](https://fedramp-rfc-0033-20x-class-d-assurance-governance-sbj-2026.solutionsbyjewelgovernance.workers.dev/)
+**Formal contribution:** [SBJ-hosted submission](https://fedramp-rfc-0033-20x-class-d-assurance-governance-sbj-2026.solutionsbyjewelaigovernance.workers.dev/)
 
 ## Technical substance identified
 
